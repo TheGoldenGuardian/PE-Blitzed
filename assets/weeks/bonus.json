@@ -1,0 +1,26 @@
+{
+	"songs": [
+		["Vision", "shaggy-gray", [248, 141, 6]],
+		["Weed", "weed", [100, 64, 115]],
+		["Ignition", "matt-pissed", [248,141,6]],
+		["Ballin", "matt-cool-orange", [248,141,6]],
+		["Wind-Up", "matt-cool-red", [236,28,36]],
+		["Paranoia", "matt-cool-green", [151,255,14]]
+	],
+
+	"weekCharacters": [
+		"",
+		"bf",
+		""
+	],
+	"weekBackground": "stage",
+
+	"storyName": "bonuses",
+	"weekBefore": "wiikG",
+	"weekName": "Bonus Tracks",
+	"startUnlocked": true,
+	"difficulties": "Normal",
+
+	"hideStoryMode": true,
+	"hideFreeplay": false
+}

@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="matt__tko.png">
+	<!-- Created with Adobe Animate version 22.0.0.93 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Mart ChillDown0000" x="0" y="0" width="269" height="396" frameX="0" frameY="-5" frameWidth="270" frameHeight="401"/>
+	<SubTexture name="Mart ChillDown0001" x="0" y="0" width="269" height="396" frameX="0" frameY="-5" frameWidth="270" frameHeight="401"/>
+	<SubTexture name="Mart ChillDown0002" x="269" y="0" width="268" height="401" frameX="-2" frameY="0" frameWidth="270" frameHeight="401"/>
+	<SubTexture name="Mart ChillDown0003" x="269" y="0" width="268" height="401" frameX="-2" frameY="0" frameWidth="270" frameHeight="401"/>
+	<SubTexture name="Mart ChillDown0004" x="269" y="0" width="268" height="401" frameX="-2" frameY="0" frameWidth="270" frameHeight="401"/>
+	<SubTexture name="Mart ChillDown0005" x="269" y="0" width="268" height="401" frameX="-2" frameY="0" frameWidth="270" frameHeight="401"/>
+	<SubTexture name="Mart ChillDown0006" x="269" y="0" width="268" height="401" frameX="-2" frameY="0" frameWidth="270" frameHeight="401"/>
+	<SubTexture name="Mart ChillDown0007" x="269" y="0" width="268" height="401" frameX="-2" frameY="0" frameWidth="270" frameHeight="401"/>
+	<SubTexture name="Mart ChillDown0008" x="269" y="0" width="268" height="401" frameX="-2" frameY="0" frameWidth="270" frameHeight="401"/>
+	<SubTexture name="Mart ChillDown0009" x="269" y="0" width="268" height="401" frameX="-2" frameY="0" frameWidth="270" frameHeight="401"/>
+	<SubTexture name="Mart ChillDown0010" x="269" y="0" width="268" height="401" frameX="-2" frameY="0" frameWidth="270" frameHeight="401"/>
+	<SubTexture name="Mart ChillDown0011" x="269" y="0" width="268" height="401" frameX="-2" frameY="0" frameWidth="270" frameHeight="401"/>
+	<SubTexture name="Mart ChillDown0012" x="269" y="0" width="268" height="401" frameX="-2" frameY="0" frameWidth="270" frameHeight="401"/>
+	<SubTexture name="Mart ChillDown0013" x="269" y="0" width="268" height="401" frameX="-2" frameY="0" frameWidth="270" frameHeight="401"/>
+	<SubTexture name="Mart ChillIdle0000" x="537" y="0" width="445" height="451"/>
+	<SubTexture name="Mart ChillIdle0001" x="537" y="0" width="445" height="451"/>
+	<SubTexture name="Mart ChillIdle0002" x="982" y="0" width="445" height="451"/>
+	<SubTexture name="Mart ChillIdle0003" x="982" y="0" width="445" height="451"/>
+	<SubTexture name="Mart ChillIdle0004" x="1427" y="0" width="445" height="451"/>
+	<SubTexture name="Mart ChillIdle0005" x="1427" y="0" width="445" height="451"/>
+	<SubTexture name="Mart ChillIdle0006" x="1872" y="0" width="445" height="451"/>
+	<SubTexture name="Mart ChillIdle0007" x="1872" y="0" width="445" height="451"/>
+	<SubTexture name="Mart ChillIdle0008" x="1872" y="0" width="445" height="451"/>
+	<SubTexture name="Mart ChillIdle0009" x="1872" y="0" width="445" height="451"/>
+	<SubTexture name="Mart ChillIdle0010" x="1872" y="0" width="445" height="451"/>
+	<SubTexture name="Mart ChillIdle0011" x="1872" y="0" width="445" height="451"/>
+	<SubTexture name="Mart ChillIdle0012" x="1872" y="0" width="445" height="451"/>
+	<SubTexture name="Mart ChillIdle0013" x="1872" y="0" width="445" height="451"/>
+	<SubTexture name="Mart ChillLeft0000" x="2317" y="0" width="944" height="523"/>
+	<SubTexture name="Mart ChillLeft0001" x="3261" y="0" width="272" height="405" frameX="0" frameY="-118" frameWidth="944" frameHeight="523"/>
+	<SubTexture name="Mart ChillLeft0002" x="3533" y="0" width="272" height="412" frameX="-4" frameY="-111" frameWidth="944" frameHeight="523"/>
+	<SubTexture name="Mart ChillLeft0003" x="3533" y="0" width="272" height="412" frameX="-4" frameY="-111" frameWidth="944" frameHeight="523"/>
+	<SubTexture name="Mart ChillLeft0004" x="3533" y="0" width="272" height="412" frameX="-4" frameY="-111" frameWidth="944" frameHeight="523"/>
+	<SubTexture name="Mart ChillLeft0005" x="3533" y="0" width="272" height="412" frameX="-4" frameY="-111" frameWidth="944" frameHeight="523"/>
+	<SubTexture name="Mart ChillLeft0006" x="3533" y="0" width="272" height="412" frameX="-4" frameY="-111" frameWidth="944" frameHeight="523"/>
+	<SubTexture name="Mart ChillLeft0007" x="3533" y="0" width="272" height="412" frameX="-4" frameY="-111" frameWidth="944" frameHeight="523"/>
+	<SubTexture name="Mart ChillLeft0008" x="3805" y="0" width="272" height="412" frameX="-4" frameY="-111" frameWidth="944" frameHeight="523"/>
+	<SubTexture name="Mart ChillLeft0009" x="3805" y="0" width="272" height="412" frameX="-4" frameY="-111" frameWidth="944" frameHeight="523"/>
+	<SubTexture name="Mart ChillLeft0010" x="3805" y="0" width="272" height="412" frameX="-4" frameY="-111" frameWidth="944" frameHeight="523"/>
+	<SubTexture name="Mart ChillLeft0011" x="3805" y="0" width="272" height="412" frameX="-4" frameY="-111" frameWidth="944" frameHeight="523"/>
+	<SubTexture name="Mart ChillLeft0012" x="3805" y="0" width="272" height="412" frameX="-4" frameY="-111" frameWidth="944" frameHeight="523"/>
+	<SubTexture name="Mart ChillRight0000" x="0" y="523" width="492" height="424" frameX="0" frameY="-3" frameWidth="492" frameHeight="427"/>
+	<SubTexture name="Mart ChillRight0001" x="0" y="523" width="492" height="424" frameX="0" frameY="-3" frameWidth="492" frameHeight="427"/>
+	<SubTexture name="Mart ChillRight0002" x="492" y="523" width="492" height="427"/>
+	<SubTexture name="Mart ChillRight0003" x="492" y="523" width="492" height="427"/>
+	<SubTexture name="Mart ChillRight0004" x="492" y="523" width="492" height="427"/>
+	<SubTexture name="Mart ChillRight0005" x="492" y="523" width="492" height="427"/>
+	<SubTexture name="Mart ChillRight0006" x="492" y="523" width="492" height="427"/>
+	<SubTexture name="Mart ChillRight0007" x="492" y="523" width="492" height="427"/>
+	<SubTexture name="Mart ChillRight0008" x="492" y="523" width="492" height="427"/>
+	<SubTexture name="Mart ChillRight0009" x="492" y="523" width="492" height="427"/>
+	<SubTexture name="Mart ChillRight0010" x="492" y="523" width="492" height="427"/>
+	<SubTexture name="Mart ChillRight0011" x="492" y="523" width="492" height="427"/>
+	<SubTexture name="Mart ChillRight0012" x="492" y="523" width="492" height="427"/>
+	<SubTexture name="Mart ChillSnap0000" x="984" y="523" width="440" height="456"/>
+	<SubTexture name="Mart ChillSnap0001" x="1424" y="523" width="440" height="456"/>
+	<SubTexture name="Mart ChillSnap0002" x="1864" y="523" width="440" height="456"/>
+	<SubTexture name="Mart ChillSnap0003" x="2304" y="523" width="440" height="456"/>
+	<SubTexture name="Mart ChillSnap0004" x="2304" y="523" width="440" height="456"/>
+	<SubTexture name="Mart ChillSnap0005" x="2744" y="523" width="440" height="456"/>
+	<SubTexture name="Mart ChillSnap0006" x="3184" y="523" width="440" height="456"/>
+	<SubTexture name="Mart ChillSnap0007" x="3624" y="523" width="440" height="456"/>
+	<SubTexture name="Mart ChillSnap0008" x="0" y="979" width="440" height="456"/>
+	<SubTexture name="Mart ChillSnap0009" x="440" y="979" width="440" height="456"/>
+	<SubTexture name="Mart ChillSnap0010" x="440" y="979" width="440" height="456"/>
+	<SubTexture name="Mart ChillSnap0011" x="880" y="979" width="440" height="456"/>
+	<SubTexture name="Mart ChillSnap0012" x="1320" y="979" width="440" height="456"/>
+	<SubTexture name="Mart ChillSnap0013" x="1320" y="979" width="440" height="456"/>
+	<SubTexture name="Mart ChillSnap0014" x="1320" y="979" width="440" height="456"/>
+	<SubTexture name="Mart ChillSnap0015" x="1320" y="979" width="440" height="456"/>
+	<SubTexture name="Mart ChillUp0000" x="1760" y="979" width="422" height="462"/>
+	<SubTexture name="Mart ChillUp0001" x="2182" y="979" width="422" height="462"/>
+	<SubTexture name="Mart ChillUp0002" x="2604" y="979" width="422" height="462"/>
+	<SubTexture name="Mart ChillUp0003" x="2604" y="979" width="422" height="462"/>
+	<SubTexture name="Mart ChillUp0004" x="2604" y="979" width="422" height="462"/>
+	<SubTexture name="Mart ChillUp0005" x="2604" y="979" width="422" height="462"/>
+	<SubTexture name="Mart ChillUp0006" x="2604" y="979" width="422" height="462"/>
+	<SubTexture name="Mart ChillUp0007" x="2604" y="979" width="422" height="462"/>
+	<SubTexture name="Mart ChillUp0008" x="2604" y="979" width="422" height="462"/>
+	<SubTexture name="Mart ChillUp0009" x="2604" y="979" width="422" height="462"/>
+	<SubTexture name="Mart ChillUp0010" x="2604" y="979" width="422" height="462"/>
+	<SubTexture name="Mart ChillUp0011" x="2604" y="979" width="422" height="462"/>
+	<SubTexture name="Mart ChillUp0012" x="2604" y="979" width="422" height="462"/>
+</TextureAtlas>

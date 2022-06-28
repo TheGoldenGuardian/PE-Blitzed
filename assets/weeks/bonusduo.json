@@ -1,0 +1,21 @@
+{
+	"songs": [
+		["Doubled Power", "matt-black", [0,0,0]]
+	],
+
+	"weekCharacters": [
+		"",
+		"bf",
+		""
+	],
+	"weekBackground": "stage",
+
+	"storyName": "bonuses",
+	"weekBefore": "wiikG",
+	"weekName": "Bonus Tracks",
+	"startUnlocked": true,
+	"difficulties": "Normal, Both Sides",
+
+	"hideStoryMode": true,
+	"hideFreeplay": false
+}

@@ -1,0 +1,11 @@
+{
+	
+	"image": "Menu_MattCool",
+	"position": [
+		100,
+		40
+	],
+	"scale": 0.8,
+	"idle_anim": "Mart ChillIdle",
+	"confirm_anim": "Mart ChillUp"
+}

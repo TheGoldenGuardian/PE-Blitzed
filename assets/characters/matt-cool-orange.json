@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-300
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Mart ChillIdle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-60,
+				-230
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Mart ChillLeft",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-80,
+				-350
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Mart ChillDown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-14,
+				-292
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Mart ChillUp",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				-325
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Mart ChillRight",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-295
+			],
+			"anim": "singSNAP",
+			"fps": 24,
+			"name": "Mart ChillSnap",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/matt/matt__tko",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "matt-cool-orange",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		140,
+		61
+	],
+	"camera_position": [
+		200,
+		310
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

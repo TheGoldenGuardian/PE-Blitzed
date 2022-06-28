@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				70,
+				-349
+			],
+			"anim": "singRIGHT",
+			"fps": 38,
+			"name": "matt right note",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				38,
+				-292
+			],
+			"anim": "singUP",
+			"fps": 38,
+			"name": "matt up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-1,
+				-290
+			],
+			"anim": "idle",
+			"fps": 38,
+			"name": "matt idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				99,
+				-320
+			],
+			"anim": "singLEFT",
+			"fps": 38,
+			"name": "matt left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-349
+			],
+			"anim": "singDOWN",
+			"fps": 38,
+			"name": "matt down",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/matt/GREEN_MART",
+	"position": [
+		130,
+		-20
+	],
+	"healthicon": "matt-cool-green",
+	"flip_x": false,
+	"healthbar_colors": [
+		151,
+		255,
+		14
+	],
+	"camera_position": [
+		20,
+		320
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-30,
+				-24
+			],
+			"loop": false,
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Left",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-31,
+				-59
+			],
+			"loop": false,
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Down",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-107,
+				-6
+			],
+			"loop": false,
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				29,
+				-43
+			],
+			"loop": false,
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				60,
+				-35
+			],
+			"loop": false,
+			"anim": "singLEFT-alt",
+			"fps": 24,
+			"name": "AltLeft",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-70,
+				-67
+			],
+			"loop": false,
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "AltDown",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-147,
+				0
+			],
+			"loop": false,
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "AltUp",
+			"indices": []
+		},
+		{
+			"offsets": [
+				119,
+				-49
+			],
+			"loop": false,
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "AltRight",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"anim": "idle",
+			"fps": 24,
+			"name": "Idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/matt/matt_hurt2",
+	"position": [
+		0,
+		300
+	],
+	"healthicon": "matt-pissed",
+	"flip_x": false,
+	"healthbar_colors": [
+		248,
+		141,
+		6
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

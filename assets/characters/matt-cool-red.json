@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-370
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Matt BoxIdle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-20,
+				-370
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Matt BoxLeft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-100,
+				-426
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Matt BoxDown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-4,
+				-362
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Matt BoxUp",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				-366
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Matt BoxRight",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/matt/red_mert",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "matt-cool-red",
+	"flip_x": false,
+	"healthbar_colors": [
+		236,
+		28,
+		36
+	],
+	"camera_position": [
+		230,
+		430
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

@@ -1,0 +1,23 @@
+{
+	"songs": [
+		["Instability", "shaggy", [246, 37, 78]],
+		["Erosion", "shaggy", [246, 37, 78]],
+		["MAX POWER", "shaggy", [246, 37, 78]]
+	],
+
+	"weekCharacters": [
+		"",
+		"bf",
+		""
+	],
+	"weekBackground": "",
+
+	"storyName": "something ain't right",
+	"weekBefore": "wiikG",
+	"weekName": "Void Shaggy",
+	"startUnlocked": true,
+	"difficulties": "Normal",
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}

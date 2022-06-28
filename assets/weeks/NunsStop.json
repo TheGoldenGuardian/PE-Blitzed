@@ -1,0 +1,23 @@
+{
+	"songs": [
+		["Chillin", "matt-cool-orange", [248, 141, 6]],
+		["Hood Classic", "matt-cool-orange", [248, 141, 6]],
+		["Sturdy", "matt-cool-orange", [248, 141, 6]]
+	],
+
+	"weekCharacters": [
+		"matt-cool",
+		"bf",
+		""
+	],
+	"weekBackground": "training",
+
+	"storyName": "chill beats w/ matt (tracks by NunsStop)",
+	"weekBefore": "wiikG",
+	"weekName": "NunsStop Mix",
+	"startUnlocked": true,
+	"difficulties": "Normal",
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}

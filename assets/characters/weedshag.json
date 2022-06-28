@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-40,
+				59
+			],
+			"loop": false,
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "weed left",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-110,
+				34
+			],
+			"loop": false,
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "weed down",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-68,
+				68
+			],
+			"loop": false,
+			"anim": "singUP",
+			"fps": 24,
+			"name": "weed up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				49,
+				7
+			],
+			"loop": false,
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "weed right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"anim": "idle",
+			"fps": 24,
+			"name": "weed idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/shagweed",
+	"position": [
+		-60,
+		-160
+	],
+	"healthicon": "weed",
+	"flip_x": false,
+	"healthbar_colors": [
+		80,
+		134,
+		60
+	],
+	"camera_position": [
+		0,
+		150
+	],
+	"sing_duration": 6.1,
+	"scale": 0.8
+}
